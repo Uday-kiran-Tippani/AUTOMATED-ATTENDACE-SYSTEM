@@ -1,0 +1,6 @@
+*.json
+lecturer_interface/config/*.json
+attendance_system_hod/database/*.json
+*.json
+__pycache__/
+*.pyc
